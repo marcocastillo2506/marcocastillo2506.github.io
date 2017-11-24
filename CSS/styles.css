@@ -1,0 +1,36 @@
+h1 {
+  color: Blue;
+  font-style: italic;
+  text-align: center;
+}
+h2 {
+  color: SlateBlue ;
+  font-style: oblique;
+}
+ul {  
+  color: #a400ff ;
+  text-align: center;
+}
+p {
+    border-left: 6px solid blue;
+    background-color:#ddc1f2;
+    text-align: center;
+}
+div {
+    background-color:#e7caf7;
+    width: 300px;
+    border: 25px solid #da96ff;
+    padding: 25px;
+    margin: 25px;
+    text-align: justify;
+    margin: 50px 0 0 400px;
+  left: 185%;
+  top: 185%;
+
+}
+div{
+  text-align: center;
+  text-decoration-color: SlateBlue
+}
+img {
+}
