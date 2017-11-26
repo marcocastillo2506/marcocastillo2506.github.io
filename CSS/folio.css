@@ -1,5 +1,5 @@
-h3 {
-  color: #399b6d;
+h1 {
+  color: #blue;
   font-style: italic;
   text-align: center;
 }
@@ -8,7 +8,7 @@ h2 {
   font-style: oblique;
 }
 ul {
-  color: #a400ff ;
+  color: #black ;
   text-align: center;
 }
 p {
